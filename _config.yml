@@ -2,9 +2,7 @@ title: EEB C177/C234 Winter 2020
 author: Shawn Schwartz
 email: shawnschwartz@ucla.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the course website for UCLA EEB C177/C234 (Practical Computing for Evolutionary Biologists and Ecologists) lab sections with Shawn. Term Winter 2020.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,8 +13,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    github:  ShawnTylerSchwartz
+    twitter: shawnschwartz_
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
