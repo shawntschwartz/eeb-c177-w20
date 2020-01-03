@@ -86,6 +86,12 @@
     margin-left: 20px;
   }
 
+  .active {
+    font-weight: bolder;
+  }
+
+  
+
   @media screen and (min-width: $on-medium) {
     position: static;
     float: right;

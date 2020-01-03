@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+permalink: pretty
+
 # Google Analytics
 google_analytics: UA-81858219-2
 
@@ -42,8 +44,9 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+# header_pages:
+#   - index.md
+#   - about.md
 
 # Build settings
 theme: minima

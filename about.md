@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Course Info
+permalink: /course-info/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**EEB C177/C234: Practical Computing for Evolutionary Biologists and Ecologists**
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**Term:** Winter 2020
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Instructor:** Michael E. Alfaro, Ph.D.
 
+**TA:** Shawn T. Schwartz
 
-[jekyll-organization]: https://github.com/jekyll
+**Lecture:** T/Th 9:30-10:45am (Royce Hall 160)
+
+**Labs:** Mathematical Sciences 5233 (Lab 1A), Young Hall 1044 (Lab 1B)
+
+**Description:** Lecture, three hours; laboratory, two hours. Requisite: Life Sciences 1 or 7B. Introduction to fundamental skills needed for manipulation, analysis, and visualization of large data sets. Basic programming and scripting in Python as well as working in shell, regular expressions, and related topics.
