@@ -8,7 +8,7 @@ title: Homework
 See [https://shawntylerschwartz.github.io/eeb-c177-w20/2020/01/13/lab-week-2/](https://shawntylerschwartz.github.io/eeb-c177-w20/2020/01/13/lab-week-2/).
  - 2 Parts
   - Part 1: Due on GitHub Tuesday (1/14) by 9am
-  - Part 2: Due on Github Thursday (1/16) by 9am
+  - Part 2: Due on GitHub Thursday (1/16) by 9am
 
 ### Lab Homework (Week 1):
 - You will keep a food log/journal for the next 5 days (starting this afternoon) using this file
