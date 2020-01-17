@@ -31,7 +31,7 @@ See [https://shawntylerschwartz.github.io/eeb-c177-w20/2020/01/13/lab-week-2/](h
  - For the optional, extra credit assignments (1.10.3 and 1.10.4), you can only get extra credit if you successfully complete all of the other parts of the assignment (parts 1-5). Do not attempt these assignments until you have finished the other parts (if time permits).
  
 #### Part 1:
-1. Download this text file using the `wget` command into your `sandbox` directory (within ~/Developers/repos/CSB/unix/sandbox/` `wget -c http://dev.shawntylerschwartz.com/docs/paragraphs.txt`. **Then, do the git add-commit-push workflow.**
+1. Download this text file using the `wget` command into your `sandbox` directory (within `~/Developers/repos/CSB/unix/sandbox/`): `wget -c http://dev.shawntylerschwartz.com/docs/paragraphs.txt`. **Then, do the git add-commit-push workflow.**
 2. Make a new folder in your `class-assignments` directory with the name `homework-two` and move this `paragraphs.txt` file into that location. **Then, do the git add-commit-push workflow again.**
 3. Traverse to your `class-assignments/homework-two/` directory and rename the file `easy-question.txt`. **Then, do the git add-commit-push workflow again.**
 4. Create a text file titled `hw2-part1-commands.txt` containing the commands you used to accomplish this task. This file should be inside the `homework-two` directory. **Then, do the git add-commit-push workflow again.**
