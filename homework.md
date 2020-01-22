@@ -50,7 +50,7 @@ DD Data Deficient
 NA Not Applicable
 ```
 3. In a **Markdown (.md)** file with this name: `part-2-redlist.md`, place your command followed by the output (answers) to each of the following questions:
-    1. Count the number of occurrences for each category (`EX`, `RE`, etc.)
+    1. Count the number of occurrences for each category (`EX`, `RE`, etc.).
     2. Repeat the previous step, but only consider birds (class `AVES`).
     3. For each order of birds, compute the number of extinct/near extinct (`EX`, `RE` or `CE`) species.
 
