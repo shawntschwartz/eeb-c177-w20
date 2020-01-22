@@ -32,7 +32,7 @@ See [https://shawntylerschwartz.github.io/eeb-c177-w20/2020/01/13/lab-week-2/](h
     1. Find the number of winners for each Nobel prize (`chemistry`, `economics`, `literature`, `medicine`, `peace`, `physics`).
     2. Find the winners of multiple Nobel prizes.
     3. Find the most common surnames among the winners.
-    4. The Nobel prizes have not been awarder every year since 1901. Which one has been awarded the most? Which the least?
+    4. The Nobel prizes have not been awarded every year since 1901. Which one has been awarded the most? Which the least?
 
 #### Part 2:
 1. Download this csv data file using `wget -c` from this address: `http://dev.shawntylerschwartz.com/docs/European_Red_List.csv`.
