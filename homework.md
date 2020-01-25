@@ -23,7 +23,7 @@ See [https://shawntylerschwartz.github.io/eeb-c177-w20/2020/01/13/lab-week-2/](h
 <hr />
 
 ## Lecture Exercises & Homework
-### Lecture Homework #4 (Due Saturday, 1/25 by 11:59pm)
+### Lecture Homework #4 (Due Sunday, 1/26 by 11:59pm)
 #### Part 1 (Making a New Git Repository)
 When we made our first Git Repo, `eeb-c177-homework`, we made it on GitHub and then cloned it to our machines. The other way to make a GitHub Repo is to **initialize** a git repo in a directory on your computer and then connect it to a **remote** location (i.e., GitHub). We will therefore make a git repo to store our scripts.
 1. In your `repos` directory, make a directory called `eeb-c177-scripts`.
