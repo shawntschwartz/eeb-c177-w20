@@ -4,6 +4,12 @@ title: Homework
 ---
 
 ## Lab Exercises & Homework
+### Lab Homework (Week 4):
+See [https://shawntylerschwartz.github.io/eeb-c177-w20/2020/01/27/lab-week-4/](https://shawntylerschwartz.github.io/eeb-c177-w20/2020/01/27/lab-week-4/).
+ - 2 Parts
+  - Part 1: Due on GitHub Friday (1/31) by noon (12pm)
+  - Part 2: Due on GitHub Saturday (2/1) by 11:59pm
+
 ### No Lab Homework Week 3!
 
 ### Lab Homework (Week 2):
