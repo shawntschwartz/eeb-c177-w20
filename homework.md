@@ -62,7 +62,7 @@ date
  - Read `Chapter 1` of the _Introducing Python_ Book (Lubanovic, B. (2019). Introducing Python, 2nd Edition: Modern Computing in Simple Packages. O’Reilly Media.)
  - ^ This book is available on the UCLA Network or with the UCLA VPN at [https://proquest.safaribooksonline.com/book/programming/python/9781492051374](https://proquest.safaribooksonline.com/book/programming/python/9781492051374).
  - In your `class-assignments` directory, make a directory called `python-notes`.
- - Inside of `python-notes`, create a Jupyter Notebook that shows that you have worked through the examples inside of `Chapter 2` and `Chapter 3` of the _Introducing Python_ Book. **Create a separate Jupyter Notebook for each chapter, and name them `chapter2` and `chapter3`.
+ - Inside of `python-notes`, create a Jupyter Notebook that shows that you have worked through the examples inside of `Chapter 2` and `Chapter 3` of the _Introducing Python_ Book. **Create a separate Jupyter Notebook for each chapter, and name them `chapter2` and `chapter3`.**
  - At the end of each chapter, there is a *Things to Do* section. Do the problems there as well within your notebook and make sure to label to sections and headers within your notebook approporiately.
 
 
