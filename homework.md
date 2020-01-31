@@ -29,7 +29,7 @@ See [https://shawntylerschwartz.github.io/eeb-c177-w20/2020/01/13/lab-week-2/](h
 <hr />
 
 ## Lecture Exercises & Homework
-###Lecture Homework #5 (Due Tuesday, 2/4 by 9:30am)
+### Lecture Homework #5 (Due Tuesday, 2/4 by 9:30am)
 #### Part 1 (Revisiting the Shell)
  - There was a typo in the script we were trying to write in class to learn to pass arguments to a script from the Terminal.
  - When setting variables, there **should not** be a space between the variable name, the `=`, and the value that you want to assign.
