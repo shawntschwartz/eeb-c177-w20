@@ -51,7 +51,7 @@ date
  ```
  **Note: ^these are just examples and placeholders above. The goal is to be able to replace them with anything that would match the format of the script that you wrote to extract the body mass.**
 
- - In order to test your script, I have prepared two new **input body mass files** that are in the same format as the `Pacifici2013_data.csv` dataset file.
+ - In order to test your script, I have prepared two new **input body mass files** that are in the same format as the `Pacifici2013_data.csv` dataset file. You should also test it with the original `Pacifici2013_data.csv` dataset file.
  - You can get these files by using the `wget` command as we've done before.
 1. `wget -c http://dev.shawntylerschwartz.com/docs/PanTHERIA_dataset.csv`
 2. `wget -c http://dev.shawntylerschwartz.com/docs/other_sources_dataset.csv`
