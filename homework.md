@@ -4,6 +4,10 @@ title: Homework
 ---
 
 ## Lab Exercises & Homework
+### Lab Homework (Week 5):
+See [https://shawntylerschwartz.github.io/eeb-c177-w20/2020/02/03/lab-week-5/](https://shawntylerschwartz.github.io/eeb-c177-w20/2020/02/03/lab-week-5/)
+ - Due on Github Sunday (2/9) by 11:59pm
+
 ### Lab Homework (Week 4):
 See [https://shawntylerschwartz.github.io/eeb-c177-w20/2020/01/27/lab-week-4/](https://shawntylerschwartz.github.io/eeb-c177-w20/2020/01/27/lab-week-4/).
  - 2 Parts
@@ -65,6 +69,10 @@ date
  - Inside of `python-notes`, create a Jupyter Notebook that shows that you have worked through the examples inside of `Chapter 2` and `Chapter 3` of the _Introducing Python_ Book. **Create a separate Jupyter Notebook for each chapter, and name them `chapter2` and `chapter3`.**
  - At the end of each chapter, there is a *Things to Do* section. Do the problems there as well within your notebook and make sure to label to sections and headers within your notebook approporiately.
 
+#### Part 3 (Preview to Dictionaries in Python)
+Do problems 1-10 on this website [https://www.w3resource.com/python-exercises/dictionary/](https://www.w3resource.com/python-exercises/dictionary/). The solutions are listed, but you won't fully grasp the concepts if you don't work through the problems yourself. As such, please write a comment **directly after** each line of code to explain what is happening. We will be going over this concept in lecture tomorrow, and it's important that you practice it beforehand.
+
+Call it `lecture-hw-5-part3` in your `class-assignments` directory.
 
 ### Lecture Homework #4 (Due Sunday, 1/26 by 11:59pm)
 #### Part 1 (Making a New Git Repository)
