@@ -2,6 +2,8 @@
 layout: page
 title: Lectures
 ---
+Copy and paste this: `city_list = [('TX','Austin'), ('TX','Houston'), ('NY','Albany'), ('NY', 'Syracuse'), ('NY', 'Buffalo'), ('NY', 'Rochester'), ('TX', 'Dallas'), ('CA','Sacramento'), ('CA', 'Palo Alto'), ('GA', 'Atlanta')]`
+
 ## Lecture Slides
  - [Lecture 5: (1/23/2020)]({{ site.url }}assets/lecture-pdfs/lecture-5_1-23-2020.pdf)
  - [Lecture 4: (1/21/2020)]({{ site.url }}assets/lecture-pdfs/lecture-4_1-21-2020.pdf)
