@@ -4,6 +4,36 @@ title: Homework
 ---
 
 ## Lab Exercises & Homework
+### Quiz (Monday, 2/10, Week 6 Lab)
+We will start lab on Monday with a quiz which will test your ability to write the code necessary to:
+ - initialize a dictionary
+ - know the differences between the different data types and data structures (collections) that we've discussed in both lab and lecture
+ - perform operations with a dictionary
+ - count items in a list and dictionary
+ - write a for loop to perform operations and iterate through keys and values in a dictionary
+ 
+PDFs from [lectures]({{ site.url }}lectures) have been posted. The _Introduction to Python_ book chapters 6, 7, 8 are useful for studying. Although your homework is to practice with the problems from chapter 8, if you'd like extra practice, go through chapters 6 and 7 as well.
+
+#### Extra Credit
+1. You can get extra credit towards this quiz by posting your questions about chapters 6, 7, and/or 8 to the course discussion forum on GitHub with **clear questions and examples of what you've tried** and/or **answer other student's questions** and **provide follow-ups to your posted questions**.
+2. If you finish the other exercises, try and make progress on this bonus question.
+ - Use `wget -c` to get the data file from `http://dev.shawntylerschwartz.com/docs/blake.csv`
+ - In a Jupyter Notebook titled `fairness-extra-credit` in your `week-five` directory within `lab-exercises`, answer the following questions:
+ - Blake et al. (Nature 2015) studied how the sense of fairness develops in different cultures. They conducted experiments to test whether and when children became adverse to disadvantageous inequity (peer receives more than self) and advantageous inequity (self receives more than a peer). Their data support the claim that disadvantageous inequity aversion emerged across all populations by middle childhood, while advantageous inequity aversion is more variable.
+ - The csv file contains several columns:
+    - `condition`: the treatment (`AI` or `DI`).
+    - `eq.uneq`: was the distribution equal (`E`) or unequal (`U`)?
+    - `decision`: did the actor `accept` or `reject`?
+    - `country`: the country of the actor.
+    - `actor.id`: identifier for the actor (each actor did several trials).
+    - `actor.age.years`, `actor.gender`: age and gender of the actor.
+    - `dist`, `trial`: each of 16 trial was associated with a distribution. For `AI`, actor-recipient were either 1-1 or 4-1; for `DI` either 1-1 or 1-4; each was repeated four times.
+    - `value`: children were tested with `high` or `low` rewards (e.g., for Canada, Skittles vs. Goldfish crackers)
+ 
+    1. Using python, read the file and extract the names of the countries involved in the experiment.
+    2. How many `M`, `F` for each country?
+    3. For each country, select actors of age 10-12. Are females more likely than males to reject when the distribution is unequal and to their advantage?
+
 ### Lab Homework (Week 5):
 See [https://shawntylerschwartz.github.io/eeb-c177-w20/2020/02/03/lab-week-5/](https://shawntylerschwartz.github.io/eeb-c177-w20/2020/02/03/lab-week-5/)
  - Due on Github Sunday (2/9) by 11:59pm
@@ -33,6 +63,12 @@ See [https://shawntylerschwartz.github.io/eeb-c177-w20/2020/01/13/lab-week-2/](h
 <hr />
 
 ## Lecture Exercises & Homework
+### Lecture Homework #6 (Due Sunday, 2/9 by 11:59pm)
+1. Create a Jupyter Notebook in your `class-assignments` directory with the name `ch-8-exercises`.
+2. Answer questions 8.1 to 8.14 from the Chapter 8 "Things to do" section of the _Introduction to Python_ book.
+3. To get full credit for this assignment, you must make 3 commits on 3 separate days (Friday, Saturday, Sunday), where you try to answer at least 3 of the questions each time. _Spacing our your coding practice is an effective strategy to get better._
+ - **These exercises will help prepare you for the in-lab quiz on Monday.**
+
 ### Lecture Homework #5 (Due Tuesday, 2/4 by 9:30am)
 #### Part 1 (Revisiting the Shell)
  - There was a typo in the script we were trying to write in class to learn to pass arguments to a script from the Terminal.
