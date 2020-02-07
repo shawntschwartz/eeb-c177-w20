@@ -2,7 +2,6 @@
 layout: page
 title: Lectures
 ---
-Copy and paste this: `city_list = [('TX','Austin'), ('TX','Houston'), ('NY','Albany'), ('NY', 'Syracuse'), ('NY', 'Buffalo'), ('NY', 'Rochester'), ('TX', 'Dallas'), ('CA','Sacramento'), ('CA', 'Palo Alto'), ('GA', 'Atlanta')]`
 
 ## Lecture Slides
  - [Lecture 9: (2/8/2020)]({{ site.url }}assets/lecture-pdfs/lecture-9_2-8-2020.pdf)
@@ -16,3 +15,6 @@ Copy and paste this: `city_list = [('TX','Austin'), ('TX','Houston'), ('NY','Alb
 
 ## How-tos
  - [Scripting]({{ site.url }}assets/how-tos/scripting.pdf)
+
+## Lecture Demo Stuff
+Copy and paste this: `city_list = [('TX','Austin'), ('TX','Houston'), ('NY','Albany'), ('NY', 'Syracuse'), ('NY', 'Buffalo'), ('NY', 'Rochester'), ('TX', 'Dallas'), ('CA','Sacramento'), ('CA', 'Palo Alto'), ('GA', 'Atlanta')]`
