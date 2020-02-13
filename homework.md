@@ -5,31 +5,31 @@ title: Homework
 
 ## Lecture Exercises & Homework
 ### Lecture Homework #7 (Due Friday, 2/14 by 12pm)
- - [Lecture Homework #7 Details]({{ site.url }}assets/homework-files/lecture-homework-7.pdf)
+ - [Lecture Homework #7 Details]({{ site.url }}assets/hw-files/lecture-homework-7.pdf)
     
 ### Lecture Homework #6 (Due Sunday, 2/9 by 11:59pm)
-- [Lecture Homework #6 Details]({{ site.url }}assets/homework-files/lecture-homework-6.pdf)
+- [Lecture Homework #6 Details]({{ site.url }}assets/hw-files/lecture-homework-6.pdf)
 
 ### Lecture Homework #5 (Due Tuesday, 2/4 by 9:30am)
-- [Lecture Homework #5 Details]({{ site.url }}assets/homework-files/lecture-homework-5.pdf)
+- [Lecture Homework #5 Details]({{ site.url }}assets/hw-files/lecture-homework-5.pdf)
 
 ### Lecture Homework #4 (Due Sunday, 1/26 by 11:59pm)
-- [Lecture Homework #4 Details]({{ site.url }}assets/homework-files/lecture-homework-4.pdf)
+- [Lecture Homework #4 Details]({{ site.url }}assets/hw-files/lecture-homework-4.pdf)
 
 ### Lecture Homework #3 (Due Thursday, 1/23 by 11:59pm)
-- [Lecture Homework #3 Details]({{ site.url }}assets/homework-files/lecture-homework-3.pdf)
+- [Lecture Homework #3 Details]({{ site.url }}assets/hw-files/lecture-homework-3.pdf)
 
 ### Lecture Homework #2 (Due Tuesday, 1/21 before lecture by 9:30am)
-- [Lecture Homework #2 Details]({{ site.url }}assets/homework-files/lecture-homework-2.pdf)
+- [Lecture Homework #2 Details]({{ site.url }}assets/hw-files/lecture-homework-2.pdf)
 
 ### Lecture Homework #1 (Week 2, Due Thursday, 1/16 before lecture by 9:30am)
-- [Lecture Homework #1 Details]({{ site.url }}assets/homework-files/lecture-homework-1.pdf)
+- [Lecture Homework #1 Details]({{ site.url }}assets/hw-files/lecture-homework-1.pdf)
 
 <hr />
 
 ## Lab Exercises & Homework
 ### Quiz (Monday, 2/10, Week 6 Lab)
- - [Quiz Details]({{ site.url }}assets/homework-files/python-quiz-week-6-02-10-2020.pdf)
+ - [Quiz Details]({{ site.url }}assets/hw-files/python-quiz-week-6-02-10-2020.pdf)
 
 ### Lab Homework (Week 5):
 See [https://shawntylerschwartz.github.io/eeb-c177-w20/2020/02/03/lab-week-5/](https://shawntylerschwartz.github.io/eeb-c177-w20/2020/02/03/lab-week-5/)
