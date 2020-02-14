@@ -4,7 +4,7 @@ title: Homework
 ---
 
 ## Lecture Exercises & Homework
-### Lecture Homework #8 (Due Sunday, 2/16 by 11:59am)
+### Lecture Homework #8 (Due Sunday, 2/16 by 11:59pm)
  - [Lecture Homework #8 Details]({{ site.url }}assets/hw-files/lecture-homework-8.pdf)
 
 ### Lecture Homework #7 (Due Friday, 2/14 by 12pm)

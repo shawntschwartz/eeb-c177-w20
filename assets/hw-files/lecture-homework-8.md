@@ -1,4 +1,4 @@
-# Lecture Homework #8 (Due Sunday, 2/16 by 11:59am)
+# Lecture Homework #8 (Due Sunday, 2/16 by 11:59pm)
 
 1a)  Change the program below so that it reports the temperature in Fahrenheit or Celsius depending on user input. (We did this in class so you can repost your code if you finished it.)
 ```python
