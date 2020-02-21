@@ -16,7 +16,7 @@ title: Lectures
  - [Lecture 2: (1/14/2020)]({{ site.url }}assets/lecture-pdfs/lecture-2_1-14-2020.pdf)
 
 ## How-tos
- - [Python Debugger]({{ site.url }})assets/how-tos/pdb-examples.html)
+ - [Python Debugger]({{ site.url }}assets/how-tos/pdb-examples.html)
  - [Scripting]({{ site.url }}assets/how-tos/scripting.pdf)
 
 ## Lecture Demo Stuff
