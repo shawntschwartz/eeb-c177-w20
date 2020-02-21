@@ -14,4 +14,4 @@
     - Then, create another Jupyter Notebook with an example function from your `.py` Python script showing that you can apply knowledge of pdb to your own code.
  7. Reading sections 4.3-4.7 in the book for information relevant to debugging.
  8. **BONUS (E.C.)**: Use the Python shebang: `#!/usr/bin/env python` and place your Python scripts into your script directory so that they can be run without calling python like we did with our bash scripts.
- 9. Post all parts of this assignment in a new directory named `python-scripting` within your `eeb-c177-project` repoistory on GitHub by Saturday, 2/22 at 12 noon.
+ 9. Post all parts of this assignment in a new directory named `python-scripting` within your `eeb-c177-project` repoistory on GitHub by Sunday, 2/23 at 11:59pm.
