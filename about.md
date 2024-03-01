@@ -21,6 +21,6 @@ permalink: /course-info/
 ## Syllabi
 *Tentative and subject to change*
 
-[**Undergraduate Syllabus (EEB C177)**](https://shawntylerschwartz.github.io/eeb-c177-w20/assets/syllabus/EEBC177.pdf)
+[**Undergraduate Syllabus (EEB C177)**](https://shawnschwartz.com/eeb-c177-w20/assets/syllabus/EEBC177.pdf)
 
-[**Graduate Syllabus (EEB C234)**](https://shawntylerschwartz.github.io/eeb-c177-w20/assets/syllabus/EEBC234.pdf)
+[**Graduate Syllabus (EEB C234)**](https://shawnschwartz.com/eeb-c177-w20/assets/syllabus/EEBC234.pdf)

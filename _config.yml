@@ -8,7 +8,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 permalink: pretty
 
-url: https://shawntylerschwartz.github.io/eeb-c177-w20/
+url: https://shawnschwartz.com/eeb-c177-w20/
 
 # Google Analytics
 google_analytics: UA-81858219-2
@@ -20,8 +20,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    github:  ShawnTylerSchwartz
-    twitter: shawnschwartz_
+    github:  shawntschwartz
+    twitter: shawntschwartz
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll

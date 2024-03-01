@@ -4,6 +4,7 @@ title: Lectures
 ---
 
 ## Lecture Slides
+ - [Guest Lecture: (3/3/2020)]({{ site.url }}assets/lecture-pdfs/machinelearning_3-3-2020.pdf)
  - [Lecture 11: (2/18/2020)]({{ site.url }}assets/lecture-pdfs/lecture-11_2-18-2020.pdf)
  - [Lecture 10: (2/11/2020)]({{ site.url }}assets/lecture-pdfs/lecture-10_2-11-2020.pdf)
  - [Lecture 9: (2/8/2020)]({{ site.url }}assets/lecture-pdfs/lecture-9_2-8-2020.pdf)
